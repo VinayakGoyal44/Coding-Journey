@@ -1,2 +1,12 @@
-# Coding-Journey
-My coding journey from scratch - python and DSA and projects.(VIT CHENNAI 2026-2030)
+# Coding Journey 🚀
+
+Learning to code from scratch — Python basics, DSA, and projects.
+
+*Course: B.Tech CSE AI — VIT Chennai (2026–2030)  
+*Goal: 20 LPA+ by 2030  
+*Started: July 2026
+
+## What's here
+- Python basics and exercises
+- DSA practice problems
+- Small projects
