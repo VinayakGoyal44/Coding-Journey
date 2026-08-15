@@ -32,6 +32,6 @@ j= 2+3j
 print("the type of j is ", type(j)) #j is a complex number.
 list1= [1,2,["Vinayak"],2.5] #list is a collection of data types. it is mutable
 print("the type of list1 is ", type(list1))
-dict1= {"name":"Vinayak","age":20} #dict is a collection of key-value pairs. it is mutable
+dict1= {"name":"Vinayak","age":18} #dict is a collection of key-value pairs. it is mutable
 print("the type of dict1 is ", type(dict1))
-print(dict1) #ek sath map kr diya 2 elements ko. name is key and Vinayak is value. age is key and 20 is value.
+print(dict1) #ek sath map kr diya 2 elements ko. name is key and Vinayak is value. age is key and 18 is value.
